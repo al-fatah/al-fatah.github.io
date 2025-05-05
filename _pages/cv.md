@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * **Bachelor of Computer Science**, University of Adelaide, Australia  
-  * Focus: Artificial Intelligence and Cybersecurity  
 * **Diploma in Electrical and Electronic Engineering**, Singapore Polytechnic  
 
 Work Experience
