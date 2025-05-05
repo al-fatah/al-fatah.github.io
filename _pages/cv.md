@@ -24,12 +24,11 @@ Skills
 * **Cloud & DevOps**: AWS, GitHub Actions, Docker, Kubernetes, Terraform, Ansible  
 * **Programming**: Python, Java, Javascript
 * **CI/CD & Automation**: Git, Jenkins, GitHub Actions  
-* **Cybersecurity**: Network security, Cloud security
+* **Cybersecurity**: Network Security, Cloud Security
 * **Soft Skills**: Technical Communication
 
 Certifications
 ======
-* Python for Data Science  
 * Certified Associate in Project Management (CAPM®)
 
 Languages
