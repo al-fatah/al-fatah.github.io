@@ -1,7 +1,7 @@
 ---
 title: 'DevOps Challenges'
 date: 2025-02-14
-permalink: /posts/devops-challenges/
+permalink: /posts/2025/02/devops-challenges/
 tags:
   - devops
   - challenges
