@@ -1,7 +1,18 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "DevOps Capstone Project - NTUC LearningHub"
+excerpt: "Developed and implemented a CI/CD pipeline for Java and Python applications using Jenkins, GitHub Actions, and SonarQube. Containerized applications using Docker and deployed them to Kubernetes clusters."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**DevOps Capstone Project - NTUC LearningHub**  
+*Apr 2025 - May 2025*
+
+- Developed and implemented a CI/CD pipeline for Java and Python applications using Jenkins, GitHub Actions, and SonarQube for code quality checks.
+- Containerized applications using Docker and deployed them to Kubernetes clusters, ensuring high availability and scalability.
+- Automated infrastructure provisioning and application deployment using Ansible, with integration to Nexus for artifact management.
+- Set up Kubernetes clusters using kubeadm, implementing multi-node architecture with fault tolerance and high availability.
+- Integrated monitoring and logging using Prometheus and Grafana to support operational visibility.
+
+**Tech Stack**: Python, Java, GitHub, Jenkins, Docker, Kubernetes (kubeadm), Ansible, Nexus, SonarQube, Helm, Prometheus, Grafana.
+
+---
