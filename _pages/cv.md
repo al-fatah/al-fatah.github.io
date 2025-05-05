@@ -11,54 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Bachelor of Computer Science**, University of Adelaide, Australia  
+  * Focus: Artificial Intelligence and Cybersecurity  
+* **Diploma in Electrical and Electronic Engineering**, Singapore Polytechnic  
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **DevOps Engineer Trainee**, SkillsFuture Career Transition Programme  
+  * NTUC LearningHub  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Cloud & DevOps**: AWS, GitHub Actions, Docker, Kubernetes, Terraform, Ansible  
+* **Programming**: Python, Java, Javascript
+* **CI/CD & Automation**: Git, Jenkins, GitHub Actions  
+* **Cybersecurity**: Network security, Cloud security
+* **Soft Skills**: Technical Communication
 
-Publications
+Certifications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Python for Data Science  
+* Certified Associate in Project Management (CAPM®)
+
+Languages
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* English
+* Malay
+* Indonesian
