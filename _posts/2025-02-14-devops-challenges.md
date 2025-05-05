@@ -6,6 +6,8 @@ tags:
   - devops
   - challenges
   - infrastructure
+layout: single
+author_profile: true
 ---
 
 # DevOps Challenges
