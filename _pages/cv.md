@@ -17,8 +17,7 @@ Education
 
 Work Experience
 ======
-* **DevOps Engineer Trainee**, SkillsFuture Career Transition Programme  
-  * NTUC LearningHub  
+* **DevOps Engineer Trainee**, NTUC LearningHub 
 
 Skills
 ======
