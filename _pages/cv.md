@@ -23,6 +23,7 @@ Skills
 * **Cloud & DevOps**: AWS, GitHub Actions, Docker, Kubernetes, Terraform, Ansible  
 * **Programming**: Python, Java, Javascript, Linux
 * **Cybersecurity**
+* **Project Management**
 
 Certifications
 ======
