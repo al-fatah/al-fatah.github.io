@@ -11,8 +11,11 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
+
+  - title: "Certifications"
+     url: /teaching/ 
     
   - title: "CV"
     url: /cv/
