@@ -1,6 +1,6 @@
 ---
 title: 'DevOps Challenges'
-date: 2014-08-14
+date: 2025-02-14
 permalink: /posts/devops-challenges/
 tags:
   - devops
