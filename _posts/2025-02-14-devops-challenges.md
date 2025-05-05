@@ -10,8 +10,6 @@ layout: single
 author_profile: true
 ---
 
-# DevOps Challenges
-
 ## Task level
 
 The tasks below have been ranked based on seniority level, these are just recommendations and can be different based on your own experience.
